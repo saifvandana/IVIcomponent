@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-506e179940d07973d11d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IVIcomponent",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "IVIcomponent::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IVIcomponent-Debug-1cf773bb607e5d275209.json",
+					"name" : "IVIcomponent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "IVIcomponent_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IVIcomponent_autogen-Debug-be9f27e9e6f1cf8ebf74.json",
+					"name" : "IVIcomponent_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "IVIcomponent_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IVIcomponent_autogen_timestamp_deps-Debug-08f66a77b9f26a4cad46.json",
+					"name" : "IVIcomponent_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/saifvan/IVIcomponent/build/Desktop_Qt_5_15_18_for_macOS_Universal-Debug",
+		"source" : "/Users/saifvan/IVIcomponent"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

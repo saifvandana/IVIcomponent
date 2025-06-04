@@ -1,0 +1,9 @@
+/Users/saifvan/IVIcomponent/build/Desktop_Qt_5_15_18_for_macOS_Universal-Debug/CMakeFiles/IVIcomponent.dir
+/Users/saifvan/IVIcomponent/build/Desktop_Qt_5_15_18_for_macOS_Universal-Debug/CMakeFiles/edit_cache.dir
+/Users/saifvan/IVIcomponent/build/Desktop_Qt_5_15_18_for_macOS_Universal-Debug/CMakeFiles/rebuild_cache.dir
+/Users/saifvan/IVIcomponent/build/Desktop_Qt_5_15_18_for_macOS_Universal-Debug/CMakeFiles/list_install_components.dir
+/Users/saifvan/IVIcomponent/build/Desktop_Qt_5_15_18_for_macOS_Universal-Debug/CMakeFiles/install.dir
+/Users/saifvan/IVIcomponent/build/Desktop_Qt_5_15_18_for_macOS_Universal-Debug/CMakeFiles/install/local.dir
+/Users/saifvan/IVIcomponent/build/Desktop_Qt_5_15_18_for_macOS_Universal-Debug/CMakeFiles/install/strip.dir
+/Users/saifvan/IVIcomponent/build/Desktop_Qt_5_15_18_for_macOS_Universal-Debug/CMakeFiles/IVIcomponent_autogen_timestamp_deps.dir
+/Users/saifvan/IVIcomponent/build/Desktop_Qt_5_15_18_for_macOS_Universal-Debug/CMakeFiles/IVIcomponent_autogen.dir
